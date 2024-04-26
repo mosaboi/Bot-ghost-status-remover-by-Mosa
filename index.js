@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Controll AFGP automod 🐍🎮","Watching to protect sever🛡"];
 
 
 let currentIndex = 0;
